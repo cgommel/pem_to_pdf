@@ -1,0 +1,4 @@
+pem_input/*
+qr_pdfs/
+!pem_input/demo.pem
+.vscode/
