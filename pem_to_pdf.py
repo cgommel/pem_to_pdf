@@ -51,7 +51,7 @@ def create_qr_pdf(input_dir: str, output_dir: str):
         c.showPage()
         c.save()
 
-    print(f"Fertig! PDFs gespeichert in: {output_path}")
+    print(f"Ready! PDFs stored to: {output_path}")
 
 
 if __name__ == "__main__":

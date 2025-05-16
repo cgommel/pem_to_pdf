@@ -61,7 +61,7 @@ pip install "qrcode[pil]" reportlab
 2. Run the script:
 
    ```bash
-   python script.py
+   python pem_to_pdf.py
    ```
 
 3. Output PDFs will be generated in:
